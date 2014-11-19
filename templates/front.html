@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="jumbotron">
+  <div class="container">
+    <h1>Calisthenics</h1>
+    <p>Calisthenics consists of exercises intended to increase body strength and flexibility, where body weight is used as resistance. Calisthenics exercises incorporate movements such as bending, jumping, pulling, pushing, swinging, twisting or kicking that are performed for increased muscular and cardiovascular fitness, balance, agility and coordination.</p>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <h2>Exercises</h2>
+      <p>Exercises are performed for improving motor skills, fitness, muscle and bone strength, and joint function. In Calisthenics exercises you use your own body weight as resistance. Many of them can be performed at home or outside giving you lots of freedom of when and where to work out. You don't need a gym membership and got no excuses.</p>
+      <ul>
+          {% for d in indexes['exercise']|sort(attribute='title') %}
+          <li><a href="{{ d.url }}">{{ d.title }}</a></li>
+          {% endfor %}
+      </ul>
+    </div>
+    <div class="col-md-4">
+      <h2>Muscles</h2>
+      <p>There are more than 600 skeletal muscles within the typical human body. You don't need to know all of them, but your workout routine should involve your whole body. A single Calisthenics exercise typically works several different muscles so that a well balanced Calisthenics routine will improve your whole muscular system.</p>
+   </div>
+    <div class="col-md-4">
+      <h2>Equipment</h2>
+      <p>One of the benefits of Calisthenics is that your body is your main piece of equipment. You can perform many different exercises and their variations without additional equipment. However, for exercises like dips, pull-ups or rows some equipment is helpful. Of course, you can always get creative, but mind your own safety when using furniture.</p>
+    </div>
+  </div>
+</div>
+{% endblock %}
