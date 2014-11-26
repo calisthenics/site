@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% import 'macros/links.html' as links %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>{{ title }}</h1>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+            <h3>Primary Muscle</h3>
+            {{ primary_muscle }}
+            <h3>Secondary Muscles</h3>
+            {{ secondary_muscles }}
+            <h3>Force</h3>
+            {{ force }}
+        </div>
+        <div class="col-md-9">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="{{ video }}" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <p>Exercise video showing how to perform a {{ title }}.</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">{{ body }}</div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <h2>{{ title }} Equipment</h2>
+            {% for path in equipment %}
+                {{ links.index_link(equipment, '/equipment/' + path + '/') }}
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endblock %}

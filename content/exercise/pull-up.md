@@ -2,7 +2,10 @@
 title: Pull-up
 url: /exercise/pull-up/
 created: 2014-11-19T20:35:30
-template: page.html
+template: exercise.html
+video: 
+equipment:
+- pull-up-bar
 ---
 A pull-up is a variety of upper-body compound pulling exercises. The pull-up has two main grips: palms facing forward/away, and palms facing the person.
 
