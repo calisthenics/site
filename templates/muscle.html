@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% import 'macros/links.html' as links %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>{{ title }}</h1>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            {{ body }}
+            <h2>Exercises working the {{ title }}</h2>
+            {% for d in indexes['exercise'] %}
+                {% if d.primary_muscle and url == '/muscle/' + d.primary_muscle + '/' %}
+                    {{ links.doc_link(d.url) }}
+                {% endif %}
+            {% endfor %}
+        </div>
+        <div class="col-md-6">
+            {% if image %}
+                <figure>
+                    <img src="{{ image.url }}" class="img-responsive" alt="{{ image.info }}">
+                    <figcaption>Source: <a href="{{ image.source }}">{{ image.caption }}</a></figcaption>
+                </figure>
+            {% endif %}
+        </div>
+    </div>
+</div>
+{% endblock %}
