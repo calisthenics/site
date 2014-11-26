@@ -6,7 +6,9 @@ template: exercise.html
 video: https://www.youtube.com/embed/GBwVEqsl-FE
 group: dip
 primary_muscle: triceps
-secondary_muscles: chest, shoulders
+secondary_muscles:
+- chest
+- shoulders
 force: push
 equipment:
 - dip-bar

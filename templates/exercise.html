@@ -16,7 +16,11 @@
                 {{ links.doc_link('/muscle/' + primary_muscle + '/') }}
             {% endif %}
             <h3>Secondary Muscles</h3>
-            {{ secondary_muscles }}
+            {% if secondary_muscles %}
+                {% for d in secondary_muscles %}
+                    {{ links.doc_link(d.url) }}
+                {% endfor %}
+            {% endif %}
             <h3>Force</h3>
             {{ force }}
         </div>

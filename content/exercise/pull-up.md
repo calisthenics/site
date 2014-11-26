@@ -3,7 +3,12 @@ title: Pull-up
 url: /exercise/pull-up/
 created: 2014-11-19T20:35:30
 template: exercise.html
-video: 
+video: https://www.youtube.com/embed/iUNoLR0pYjY
+group: pull-up
+primary_muscle: back
+secondary_muscles:
+- biceps
+force: pull
 equipment:
 - pull-up-bar
 ---
