@@ -1,42 +1,42 @@
 {% extends "base.html" %}
 {% import 'macros/links.html' as links %}
-{% block title %}{{ super() }} | Calisthenics Exercise'{% endblock%}
+{% block title %}{{ super() }} • Calisthenics Exercise{% endblock%}
 
 {% block content %}
 <div class="container">
-    <div class="row">
-        <div class="col-md-12">
-            <h1>{{ title }}</h1>
-        </div>
-    </div>
 
     <div class="row">
-        <div class="col-md-3">
-            <h3>Primary Muscle</h3>
-            {% if primary_muscle %}
-                {{ links.doc_link('/muscle/' + primary_muscle + '/') }}
-            {% endif %}
-            <h3>Secondary Muscles</h3>
-            {% if secondary_muscles %}
-                {% for d in secondary_muscles %}
-                    {{ links.doc_link(d.url) }}
-                {% endfor %}
-            {% endif %}
-            <h3>Force</h3>
-            {{ force }}
-        </div>
-        <div class="col-md-9">
+        <div class="col-md-10">
             <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="{{ video }}" frameborder="0" allowfullscreen></iframe>
+                <iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/?listType=search&list={{ title|urlencode }}%20exercise&wmode=transparent" frameborder="0" allowfullscreen></iframe>
             </div>
-            <p>Exercise video showing how to perform a {{ title }}.</p>
+            <p>Exercise videos showing how to perform a {{ title }}.</p>
+            <hr>
+            <h1>{{ title }}</h1>
+            {{ body }}
+        </div>
+        <div class="col-md-2">
+            {% if muscles %}
+                <h3>Muscles</h3>
+                <ul class="list-unstyled">
+                {% for d in muscles %}
+                    <li>{{ d }}</li>
+                {% endfor %}
+                </ul>
+            {% endif %}
+
+            {% if variants %}
+                <h3>Variants</h3>
+                <ul class="list-unstyled">
+                {% for d in variants %}
+                    <li>{{ d }}</li>
+                {% endfor %}
+                </ul>
+            {% endif %}
         </div>
     </div>
 
-    <div class="row">
-        <div class="col-md-12">{{ body }}</div>
-    </div>
-
+    {% if equipment %}
     <div class="row">
         <div class="col-md-12">
             <h2>{{ title }} Equipment</h2>
@@ -45,5 +45,7 @@
             {% endfor %}
         </div>
     </div>
+    {% endif %}
+
 </div>
 {% endblock %}
