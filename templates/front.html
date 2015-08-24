@@ -14,7 +14,7 @@
       <h2>Exercises</h2>
       <p>Exercises are performed for improving motor skills, fitness, muscle and bone strength, and joint function. In Calisthenics exercises you use your own body weight as resistance. Many of them can be performed at home or outside giving you lots of freedom of when and where to work out. You don't need a gym membership and got no excuses.</p>
       <ul>
-          {% for d in indexes['exercise']|sort(attribute='title') %}
+          {% for d in index['exercise'].docs|sort(attribute='title') %}
           <li><a href="{{ d.url }}">{{ d.title }}</a></li>
           {% endfor %}
       </ul>

@@ -4,15 +4,15 @@
 <div class="container">
     <div class="row">
         <div class="col-md-12">
-            <header><h1>{{ title }}</h1></header>
+            <header><h1 itemprop="name">{{ title }}</h1></header>
         </div>
     </div>
 
     <div class="row">
         <div class="col-md-12">
             <ul class="col-2">
-                {% for doc in indexes.__index__ %}
-                    <li><a href="{{doc.url}}" title="{{doc.description}}">{{doc.title}}</a></li>
+                {% for doc in index.__index__.docs %}
+                    <li><a href="{{ doc.url }}" title="{{ doc.description }}">{{ doc.title }}</a></li>
                 {% endfor %}
             </ul>
         </div>

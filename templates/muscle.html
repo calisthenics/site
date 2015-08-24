@@ -14,7 +14,7 @@
         <div class="col-md-6">
             {{ body }}
             <h2>Exercises working the {{ title }}</h2>
-            {% for d in indexes['exercise'] %}
+            {% for d in index['exercise'].docs %}
                 {% if d.primary_muscle and url == '/muscle/' + d.primary_muscle + '/' %}
                     {{ links.doc_link(d.url) }}
                 {% endif %}
