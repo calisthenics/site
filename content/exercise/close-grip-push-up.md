@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.389489
+created: 2015-08-25 13:21:28.713172
 description: This exercise is performed just as a classic push up, but the hands are
   moved closer together to approximately one or two hand widths apart.
 groups: [Push-Up]

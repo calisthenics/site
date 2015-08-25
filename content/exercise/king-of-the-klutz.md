@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:47.123615
+created: 2015-08-25 13:21:29.479811
 description: The individual stands on one leg, body held vertically, closes the eyes,
   then holds the position for as long as possible.
 groups: [Legs/Glutes]

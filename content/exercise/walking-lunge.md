@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.131731
+created: 2015-08-25 13:21:28.443083
 description: ''
 groups: [Push]
 muscles: [Thigh, Buttocks, Hamstrings]

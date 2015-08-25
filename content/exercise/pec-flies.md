@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.224126
+created: 2015-08-25 13:21:28.540970
 description: The individual starts by lying facedown on a smooth, hard floor.
 groups: [Push]
 muscles: [Pectorals, Core, Shoulders]

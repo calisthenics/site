@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:47.224074
+created: 2015-08-25 13:21:29.584241
 description: The individual places one foot on the ground and the toes of the other
   foot on a raised surface behind them, with the legs straight.
 groups: [Legs/Glutes]

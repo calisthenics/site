@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.710101
+created: 2015-08-25 13:21:29.049941
 description: ''
 groups: [Core]
 muscles: [Lower Back, Erector Spinae]

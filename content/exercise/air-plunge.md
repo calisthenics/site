@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.275252
+created: 2015-08-25 13:21:28.593946
 description: The individual starts by lying down on the ground flat on the back, with
   the arms placed palm-down on the ground.
 groups: [Push]

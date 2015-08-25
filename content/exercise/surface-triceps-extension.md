@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.288456
+created: 2015-08-25 13:21:28.608062
 description: The individual starts by grasping a stable, waist-level surface such
   as a couch, railing, table or a horizontal bar.
 groups: [Push]

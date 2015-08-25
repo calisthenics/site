@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:47.074672
+created: 2015-08-25 13:21:29.428977
 description: The individual starts in a standing position with the feet together.
 groups: [Legs/Glutes]
 muscles: [Hamstrings, Lower Back, Core]

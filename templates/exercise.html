@@ -16,6 +16,15 @@
             {{ body }}
         </div>
         <div class="col-md-2">
+            {% if groups %}
+                <h3>Groups</h3>
+                <ul class="list-unstyled">
+                {% for d in groups %}
+                    <li>{{ d }}</li>
+                {% endfor %}
+                </ul>
+            {% endif %}
+
             {% if muscles %}
                 <h3>Muscles</h3>
                 <ul class="list-unstyled">

@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.175713
+created: 2015-08-25 13:21:28.490811
 description: The individual begins by standing in front of an elevated surface with
   a ledge that will bear the weight of the individual.
 groups: [Push]

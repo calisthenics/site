@@ -55,7 +55,10 @@ replacements = {
 
 
 def canonical_name(name):
-    name = name.replace('[explain]', '').strip().lower()
+    name = name.strip().lower()
+    if name.startswith('full body'):
+        return ''
+
     for source, target in replacements.items():
         name = re.sub(r'\b{}\b'.format(source), target, name)
     return name.title()
@@ -91,9 +94,9 @@ for group in groups:
             elif sibling.name == 'dl':
                 dth = sibling.find('dt').text.strip().lower()
                 if dth == 'common variants':
-                    variants = [canonical_name(i.text) for i in sibling.find_all('dd') if i.text != 'none']
+                    variants = list(filter(None, [canonical_name(i.text) for i in sibling.find_all('dd') if i.text != 'none']))
                 elif dth == 'muscle groups':
-                    muscles = [canonical_name(i.text) for i in sibling.find_all('dd')]
+                    muscles = list(filter(None, [canonical_name(i.text) for i in sibling.find_all('dd')]))
             elif sibling.name == 'h3':
                 break
 

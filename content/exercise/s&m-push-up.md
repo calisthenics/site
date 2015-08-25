@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.754256
+created: 2015-08-25 13:21:29.095326
 description: ''
 groups: [Core]
 muscles: [Core, Abdominals, Back, Shoulders]

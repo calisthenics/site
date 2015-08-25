@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.087901
+created: 2015-08-25 13:21:28.397220
 description: ''
 groups: [Push]
 muscles: [Legs, Abdominals, Shoulders]

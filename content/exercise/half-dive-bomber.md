@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.211577
+created: 2015-08-25 13:21:28.527882
 description: ''
 groups: [Push]
 muscles: [Pectorals, Triceps, Deltoids, Core]

@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.119143
+created: 2015-08-25 13:21:28.429514
 description: The individual sits with the body in an L-position, the upper body perpendicular
   to the ground and the legs out straight and parallel to the ground.
 groups: [Push]

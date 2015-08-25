@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.645723
+created: 2015-08-25 13:21:28.982907
 description: The individual starts in a standing position with the back against a
   wall.
 groups: [Pull]

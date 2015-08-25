@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.119861
+created: 2015-08-25 13:21:28.430354
 description: ''
 groups: [Push]
 muscles: [Obliques, Triceps]

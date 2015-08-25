@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.751352
+created: 2015-08-25 13:21:29.092429
 description: The individual places the toes and the forearms on the ground, with the
   elbows underneath the shoulders and the arm bent at a 90-degree angle.
 groups: [Core]

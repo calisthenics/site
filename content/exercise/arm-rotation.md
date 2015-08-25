@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.301892
+created: 2015-08-25 13:21:28.622084
 description: The individual starts by standing and placing the arms straight out and
   perpendicular with the body.
 groups: [Push]

@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.097317
+created: 2015-08-25 13:21:28.407809
 description: The individual begins with the hands placed on two solid surfaces at
   or around waist height.
 groups: [Push]

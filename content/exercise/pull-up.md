@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.588629
+created: 2015-08-25 13:21:28.923286
 description: The bodyweight Pull Up is another common indicator of an individual's
   general fitness level and is also included as one of the "big three" bodyweight
   exercises in the Navy Seal BUD/S Physical Screening Test..

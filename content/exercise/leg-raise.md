@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.816844
+created: 2015-08-25 13:21:29.160627
 description: The individual starts in a supine position on the floor, palms on the
   floor under the lower back or buttocks.
 groups: [Core]

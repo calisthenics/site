@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.077637
+created: 2015-08-25 13:21:28.385160
 description: The individual begins in a sit-up position with the hands positioned
   by the ears, palms down, fingers facing the legs.
 groups: [Push]

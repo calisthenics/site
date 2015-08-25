@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 12:54:46.607902
+created: 2015-08-25 13:21:28.943411
 description: ''
 groups: [Pull]
 muscles: [Latissimus Dorsi, Biceps, Forearms, Deltoids]

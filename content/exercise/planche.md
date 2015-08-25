@@ -1,9 +1,9 @@
 ---
-created: 2015-08-25 12:54:46.730544
+created: 2015-08-25 13:21:29.070973
 description: The individual starts on the ground in a prone position, with the hands
   at the side of the body by the hips, palm down.
 groups: [Core]
-muscles: [Full Body]
+muscles: []
 template: exercise.html
 title: Planche
 variants: []
