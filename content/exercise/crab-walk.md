@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:28.567127
+created: 2015-08-25 13:30:07.304788
 description: The individual starts by sitting on the ground with the knees bent.
 groups: [Push]
 muscles: [Triceps, Core]

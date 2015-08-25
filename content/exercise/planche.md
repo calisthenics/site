@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:29.070973
+created: 2015-08-25 13:30:07.821787
 description: The individual starts on the ground in a prone position, with the hands
   at the side of the body by the hips, palm down.
 groups: [Core]

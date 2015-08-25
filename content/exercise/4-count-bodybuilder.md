@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:28.396669
+created: 2015-08-25 13:30:07.130145
 description: From a standing position, the individual drops to a squat with hands
   on floor (count 1), thrusts the legs back to a pushup position (count 2), returns
   the legs to the squat position (count 3) and then returns to standing position (count

@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:29.116682
+created: 2015-08-25 13:30:07.868861
 description: The individual starts by sitting upright on the ground, with arms crossed
   and knees bent.
 groups: [Core]

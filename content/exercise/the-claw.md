@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:29.003729
+created: 2015-08-25 13:30:07.752811
 description: The individual places the arms in front of the body, and opens and closes
   the hands and fingers as tightly and as quickly as possible.
 groups: [Pull]

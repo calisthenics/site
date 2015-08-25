@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:28.441387
+created: 2015-08-25 13:30:07.175682
 description: The individual stands on flat surface, steps forward with one leg and
   bends down until the front knee is bent at a 90-degree angle.
 groups: [Push]

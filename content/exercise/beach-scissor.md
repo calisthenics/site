@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:29.184561
+created: 2015-08-25 13:30:07.939106
 description: The individual begins by lying on the side, one hand propping up the
   head, both legs kept straight.
 groups: [Core]

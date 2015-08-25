@@ -119,7 +119,7 @@ for group in groups:
         for variant in variants:
             filename = target_file(logya.dir_content, '/exercise/{}.md'.format(slugify(variant)))
             if not os.path.exists(filename):
-                ex_variants = set(variants).union(set([name])).difference(set([variant]))
+                ex_variants = list(set(variants).union(set([name])).difference(set([variant])))
                 doc = {
                     'created': datetime.now(),
                     'description': '',

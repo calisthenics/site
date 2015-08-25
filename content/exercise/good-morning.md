@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:29.329423
+created: 2015-08-25 13:30:08.089318
 description: The individual starts in a standing position, hands behind the head.
 groups: [Legs/Glutes]
 muscles: [Glutes, Hamstrings, Lower Back]

@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:29.557810
+created: 2015-08-25 13:30:08.326306
 description: The feet are placed together on the ground and the individual bends at
   the waist to grab the ankles, with the legs kept straight.
 groups: [Legs/Glutes]

@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:28.761625
+created: 2015-08-25 13:30:07.505132
 description: Deep Push Ups are performed as a Classic Push-up, with each hand placed
   on a raised surface so the body can be lowered between the hands at the bottom of
   the movement.

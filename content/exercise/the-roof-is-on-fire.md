@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:28.636370
+created: 2015-08-25 13:30:07.376416
 description: The individual begins in a push up position and performs a single push
   up.
 groups: [Push]

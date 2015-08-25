@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:28.502560
+created: 2015-08-25 13:30:07.238647
 description: The individual begins in a push-up position, with the body in a straight
   line and elbows locked.
 groups: [Push]

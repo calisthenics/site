@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:29.531662
+created: 2015-08-25 13:30:08.299151
 description: The individual kneels on the ground, with the feet anchored under a solid
   surface, or held to the ground by another person.
 groups: [Legs/Glutes]

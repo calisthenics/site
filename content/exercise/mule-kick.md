@@ -1,9 +1,9 @@
 ---
-created: 2015-08-25 13:21:29.354663
+created: 2015-08-25 13:30:08.115260
 description: ''
 groups: [Legs/Glutes]
 muscles: [Glutes, Lower Back, Hip Flexors]
 template: exercise.html
 title: Mule Kick
-variants: !!set {Dirty Dog: null}
+variants: [Dirty Dog]
 ---

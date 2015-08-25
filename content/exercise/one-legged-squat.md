@@ -1,10 +1,9 @@
 ---
-created: 2015-08-25 13:21:29.304522
+created: 2015-08-25 13:30:08.063642
 description: ''
 groups: [Legs/Glutes]
 muscles: [Legs]
 template: exercise.html
 title: One-Legged Squat
-variants: !!set {Invisible Chair: null, Pistol Squat: null, Sissy Squat: null, Squat: null,
-  Sumo Squat: null, Wall Squat: null}
+variants: [Invisible Chair, Sissy Squat, Pistol Squat, Sumo Squat, Wall Squat, Squat]
 ---

@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:28.848330
+created: 2015-08-25 13:30:07.592900
 description: Performed in the form of a Classic Push Up, but one arm is placed behind
   the back, with the elbow of the other arm held tightly against the ribs.
 groups: [Push-Up]

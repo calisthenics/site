@@ -1,10 +1,9 @@
 ---
-created: 2015-08-25 13:21:29.093706
+created: 2015-08-25 13:30:07.845373
 description: ''
 groups: [Core]
 muscles: [Core, Abdominals, Back, Shoulders]
 template: exercise.html
 title: Side Plank
-variants: !!set {Front Plank: null, Plank: null, Reverse Plank: null, S&M Push Up: null,
-  Static Push Up: null}
+variants: [S&M Push Up, Plank, Front Plank, Reverse Plank, Static Push Up]
 ---

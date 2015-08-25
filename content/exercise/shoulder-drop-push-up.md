@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:28.745202
+created: 2015-08-25 13:30:07.488228
 description: The Shoulder Drop is performed in a similar manner to the Classic Push
   Up, but one shoulder is lowered to the ground as the opposite shoulder is raised
   high in the air..

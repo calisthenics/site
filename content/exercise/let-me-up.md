@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:28.963363
+created: 2015-08-25 13:30:07.711339
 description: The individual starts by lying on the ground in the supine position,
   and grasps a bar mounted at arm's length above the chest.
 groups: [Pull]

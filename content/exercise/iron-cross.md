@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:29.229725
+created: 2015-08-25 13:30:07.985840
 description: The individual begins by lying on the ground in a supine position, legs
   raised in the air at 90 degrees, arms stretched out the sides.
 groups: [Core]

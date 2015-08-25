@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:29.024570
+created: 2015-08-25 13:30:07.774640
 description: The Curl-Up, or Crunch, is another measure of a person's fitness level
   and is the third of the "big three" bodyweight exercises in the Navy Seal BUD/S
   Physical Screening Test..

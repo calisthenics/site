@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:28.514720
+created: 2015-08-25 13:30:07.251058
 description: The individual begins in a push-up position on a smooth surface.
 groups: [Push]
 muscles: [Deltoids, Core, Pectorals, Triceps]

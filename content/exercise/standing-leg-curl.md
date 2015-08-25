@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:29.404030
+created: 2015-08-25 13:30:08.166619
 description: The individual starts with the feet shoulder-width apart.
 groups: [Legs/Glutes]
 muscles: [Glutes, Hamstrings]

@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:29.252729
+created: 2015-08-25 13:30:08.009809
 description: The individual begins in a supine position on a raised surface, with
   the head and neck extending off the edge.
 groups: [Core]

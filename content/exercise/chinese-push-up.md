@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:28.681872
+created: 2015-08-25 13:30:07.423343
 description: The individual starts with their feet on the ground, heels together.
 groups: [Push-Up]
 muscles: [Triceps, Deltoids]

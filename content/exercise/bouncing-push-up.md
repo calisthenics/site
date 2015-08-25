@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:21:28.795416
+created: 2015-08-25 13:30:07.539144
 description: Performed as a Classic Push Up, but the body is propelled upwards with
   a plyometric movement so the hands leave the floor for a moment.
 groups: [Push-Up]

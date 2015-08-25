@@ -1,9 +1,9 @@
 ---
-created: 2015-08-25 13:21:28.983661
+created: 2015-08-25 13:30:07.732254
 description: ''
 groups: [Pull]
 muscles: [Biceps, Forearms]
 template: exercise.html
 title: Ledge Curl
-variants: !!set {Isometric Curl: null, Towel Curl: null}
+variants: [Towel Curl, Isometric Curl]
 ---
