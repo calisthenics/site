@@ -1,5 +1,5 @@
 ---
-created: 2015-08-24 22:39:51.526637
+created: 2015-08-25 12:54:46.330412
 description: The individual starts by lying on the ground in the prone position.
 groups: [Push-Up]
 muscles: [Pectorals, Triceps, Deltoids, Core]

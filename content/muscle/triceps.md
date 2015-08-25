@@ -1,11 +1,4 @@
 ---
-title: Triceps Brachii
-url: /muscle/triceps/
-created: 2014-11-19T20:34:01
-template: muscle.html
-image:
-  url: https://upload.wikimedia.org/wikipedia/commons/8/83/Triceps_brachii.png
-  caption: Triceps brachii muscle by sv:Användare:Chrizz
-  source: https://en.wikipedia.org/wiki/File:Triceps_brachii.png
+{created: ! '2015-08-25 12:57:50.637725', description: '', template: muscle.html,
+  title: Triceps}
 ---
-The Triceps Brachii is the large muscle on the back of the upper arm principally responsible for extension of the elbow joint (straightening of the arm).

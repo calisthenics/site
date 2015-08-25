@@ -1,11 +1,11 @@
 ---
-created: 2015-08-24 22:39:51.497749
+created: 2015-08-25 12:54:46.301892
 description: The individual starts by standing and placing the arms straight out and
   perpendicular with the body.
 groups: [Push]
 muscles: [Shoulders]
 template: exercise.html
-title: Arm Rotations
+title: Arm Rotation
 variants: []
 ---
 The individual starts by standing and placing the arms straight out and perpendicular with the body. The hands and arms are moved in circles, first forward, then backward, for a selected number of rotations.

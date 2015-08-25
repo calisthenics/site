@@ -14,10 +14,14 @@
         <div class="col-md-6">
             {{ body }}
             <h2>Exercises working the {{ title }}</h2>
-            {% for d in index['exercise'].docs %}
-                {% if d.primary_muscle and url == '/muscle/' + d.primary_muscle + '/' %}
-                    {{ links.doc_link(d.url) }}
-                {% endif %}
+            <ul>
+            {% for d in index['exercise'].docs|sort(attribute='title') %}
+                {% for muscle in d['muscles'] %}
+                    {% if muscle == title %}
+                        <li>{{ links.doc_link(d.url) }}</li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
             {% endfor %}
         </div>
         <div class="col-md-6">

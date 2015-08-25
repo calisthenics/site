@@ -1,5 +1,5 @@
 ---
-created: 2015-08-24 22:39:51.571193
+created: 2015-08-25 12:54:46.374526
 description: The individual starts in a push up position, but places one hand directly
   under the forehead while the other hand is placed under the sternum.
 groups: [Push-Up]

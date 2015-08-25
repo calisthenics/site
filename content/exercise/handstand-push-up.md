@@ -1,5 +1,5 @@
 ---
-created: 2015-08-24 22:39:51.541567
+created: 2015-08-25 12:54:46.345121
 description: The individual starts with the hands about three feet from a wall or
   other solid vertical surface.
 groups: [Push-Up]

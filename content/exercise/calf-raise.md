@@ -1,5 +1,5 @@
 ---
-created: 2015-08-24 22:39:52.098121
+created: 2015-08-25 12:54:46.928242
 description: The individual starts with both feet on the edge of a raised surface,
   with the toes on the surface and the heels lower than the toes.
 groups: [Legs/Glutes]

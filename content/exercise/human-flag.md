@@ -1,5 +1,5 @@
 ---
-created: 2015-08-24 22:39:51.745208
+created: 2015-08-25 12:54:46.552950
 description: The individual starts by grabbing a vertical object such as a pole or
   tree trunk, with both hands palms pronated.
 groups: [Pull]

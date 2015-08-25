@@ -1,5 +1,5 @@
 ---
-created: 2015-08-24 22:39:51.728448
+created: 2015-08-25 12:54:46.535366
 description: The individual begins in a prone position on the ground, the balls of
   the feet on the ground and the hands placed on the ground above the head, fingers
   splayed.

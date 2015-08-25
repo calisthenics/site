@@ -1,5 +1,5 @@
 ---
-created: 2015-08-24 22:39:51.406378
+created: 2015-08-25 12:54:46.210747
 description: The feet are placed on the ground just a few inches apart, with the legs
   held straight.
 groups: [Push]

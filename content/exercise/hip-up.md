@@ -1,5 +1,5 @@
 ---
-created: 2015-08-24 22:39:52.033019
+created: 2015-08-25 12:54:46.861301
 description: The individual begins by lying on the ground, propped up on one elbow,
   hip and feet touching the ground.
 groups: [Core]

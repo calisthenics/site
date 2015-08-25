@@ -1,5 +1,5 @@
 ---
-created: 2015-08-24 22:39:51.890560
+created: 2015-08-25 12:54:46.708363
 description: The individual starts in a prone position on the ground with the arms
   straight out in front of the body.
 groups: [Core]

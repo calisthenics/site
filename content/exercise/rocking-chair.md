@@ -1,5 +1,5 @@
 ---
-created: 2015-08-24 22:39:51.362670
+created: 2015-08-25 12:54:46.164177
 description: The individual begins in a fully extended plank or push-up position.
 groups: [Push]
 muscles: [Pectorals, Triceps, Deltoids, Core]

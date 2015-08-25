@@ -1,5 +1,5 @@
 ---
-created: 2015-08-24 22:39:51.341826
+created: 2015-08-25 12:54:46.141967
 description: The individual starts with the feet positioned slightly apart and takes
   a wide step to the side with the left foot, toes pointing slightly outward.
 groups: [Push]

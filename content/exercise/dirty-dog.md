@@ -1,12 +1,12 @@
 ---
-created: 2015-08-24 22:39:52.165241
+created: 2015-08-25 12:54:47.002677
 description: The individual starts in an all-fours position, then lifts one knee off
   the ground and swings the knee out to the side as far as possible, maintaining the
   bent knee at a 90-degree angle.
 groups: [Legs/Glutes]
 muscles: [Glutes, Lower Back, Hip Flexors]
 template: exercise.html
-title: Dirty Dogs
+title: Dirty Dog
 variants: [Mule Kick]
 ---
 The individual starts in an all-fours position, then lifts one knee off the ground and swings the knee out to the side as far as possible, maintaining the bent knee at a 90-degree angle. The leg is then returned to the starting position and the exercise is then performed with the other leg.

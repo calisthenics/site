@@ -1,5 +1,5 @@
 ---
-created: 2015-08-24 22:39:52.188136
+created: 2015-08-25 12:54:47.026898
 description: The individual stands with their feet hip-width apart.
 groups: [Legs/Glutes]
 muscles: [Glutes, Hip Flexors, Lower Back]

@@ -22,6 +22,11 @@
     <div class="col-md-4">
       <h2>Muscles</h2>
       <p>There are more than 600 skeletal muscles within the typical human body. You don't need to know all of them, but your workout routine should involve your whole body. A single Calisthenics exercise typically works several different muscles so that a well balanced Calisthenics routine will improve your whole muscular system.</p>
+      <ul>
+          {% for d in index['muscle'].docs|sort(attribute='title') %}
+          <li><a href="{{ d.url }}">{{ d.title }}</a></li>
+          {% endfor %}
+      </ul>
    </div>
     <div class="col-md-4">
       <h2>Equipment</h2>

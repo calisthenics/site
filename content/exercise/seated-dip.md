@@ -1,5 +1,5 @@
 ---
-created: 2015-08-24 22:39:51.312533
+created: 2015-08-25 12:54:46.107751
 description: The individual begins with their feet on the floor, legs out straight,
   and hands placed on a supporting level surface between knee and waist height.
 groups: [Push]

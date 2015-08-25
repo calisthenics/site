@@ -1,5 +1,5 @@
 ---
-created: 2015-08-24 22:39:52.257515
+created: 2015-08-25 12:54:47.098941
 description: The individual starts with the back resting on the ground, and the legs
   bent at 90 degrees with the feet resting on an elevated surface such as a chair.
 groups: [Legs/Glutes]

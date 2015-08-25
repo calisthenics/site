@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+import os
 import re
 import requests
 
@@ -18,6 +19,7 @@ html = requests.get(url).text
 soup = BeautifulSoup(html, 'lxml')
 
 replacements = {
+    'bams': 'bam',
     'bodybuilders': 'bodybuilder',
     'boots': 'boot',
     'chairs': 'chair',
@@ -26,6 +28,7 @@ replacements = {
     'curls': 'curl',
     'darlings': 'darling',
     'dips': 'dip',
+    'dogs': 'dog',
     'extensions': 'extension',
     'humpers': 'humper',
     'ins': 'in',
@@ -41,6 +44,7 @@ replacements = {
     'plunges': 'plunge',
     'push exercises': 'push',
     'raises': 'raise',
+    'rotations': 'rotation',
     'scissors': 'scissor',
     'spidermans': 'spiderman',
     'supermans': 'superman',
@@ -70,13 +74,13 @@ groups = [i for i in toc1_items if int(i.find('a').find(class_='tocnumber').text
 assert len(groups) == len(tocnumbers)
 
 # Assemble exercise documents
-count_docs = 0
 for group in groups:
     group_name = group.find('a').find(class_='toctext').text.strip()
     for item in group.find('ul').find_all('a'):
         href = item.attrs['href']
         heading = soup.find(id=href.lstrip('#')).parent
         name = canonical_name(item.find(class_='toctext').text)
+        groups = [canonical_name(group_name)]
         body = []
         variants = []
         muscles = []
@@ -96,7 +100,7 @@ for group in groups:
         doc = {
             'created': datetime.now(),
             'description': body[0].split('. ')[0] + '.',
-            'groups': [canonical_name(group_name)],
+            'groups': groups,
             'muscles': muscles,
             'template': 'exercise.html',
             'title': name,
@@ -104,12 +108,35 @@ for group in groups:
         }
         # Files shall be saved as md files, so calling write_content directly
         # is not possible as it would save as html.
-        filename = '/exercise/{}.md'.format(slugify(name))
-        write(
-            target_file(logya.dir_content, filename),
-            encode_content(doc, '\n\n'.join(body)))
+        filename = target_file(logya.dir_content, '/exercise/{}.md'.format(slugify(name)))
+        if not os.path.exists(filename):
+            write(filename, encode_content(doc, '\n\n'.join(body)))
 
-        count_docs += 1
+        # Create stub files for variants
+        for variant in variants:
+            filename = target_file(logya.dir_content, '/exercise/{}.md'.format(slugify(variant)))
+            if not os.path.exists(filename):
+                ex_variants = set(variants).union(set([name])).difference(set([variant]))
+                doc = {
+                    'created': datetime.now(),
+                    'description': '',
+                    'groups': groups,
+                    'muscles': muscles,
+                    'template': 'exercise.html',
+                    'title': variant,
+                    'variants': ex_variants
+                }
+                write(filename, encode_content(doc, ''))
 
-assert count_docs > 60
 
+        # Create stub files for muscles
+        for muscle in muscles:
+            filename = target_file(logya.dir_content, '/muscle/{}.md'.format(slugify(muscle)))
+            if not os.path.exists(filename):
+                doc = {
+                    'created': datetime.now(),
+                    'description': '',
+                    'template': 'muscle.html',
+                    'title': muscle
+                }
+                write(filename, encode_content(doc, ''))

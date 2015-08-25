@@ -1,5 +1,5 @@
 ---
-created: 2015-08-24 22:39:52.120260
+created: 2015-08-25 12:54:46.952847
 description: The individual starts in a standing position with feet shoulder width
   apart.
 groups: [Legs/Glutes]

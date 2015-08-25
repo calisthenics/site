@@ -1,5 +1,5 @@
 ---
-created: 2015-08-24 22:39:51.970970
+created: 2015-08-25 12:54:46.795739
 description: The individual starts by standing upright, with arms raised out in front
   of the body.
 groups: [Core]

@@ -1,5 +1,5 @@
 ---
-created: 2015-08-24 22:39:51.430292
+created: 2015-08-25 12:54:46.236551
 description: The individual starts by lying down on their right side with the body
   in a straight line.
 groups: [Push]

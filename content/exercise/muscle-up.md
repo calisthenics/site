@@ -1,5 +1,5 @@
 ---
-created: 2015-08-24 22:39:51.762059
+created: 2015-08-25 12:54:46.570634
 description: The individual starts with an aggressive standard Pull Up with an overhand
   grip to chest level, at which point the wrists are rotated forward to permit the
   elbows and arms to swing above the bar.
