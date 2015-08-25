@@ -1,9 +1,9 @@
 ---
-created: 2015-08-25 13:30:07.777326
+created: 2015-08-25 15:52:16.430817
 description: ''
 groups: [Core]
 muscles: [Abdominals]
 template: exercise.html
 title: Bicycle
-variants: [Crunch It Up, V-Up, Side V-Up, Crunch, Jack Knife]
+variants: [V-Up, Side V-Up, Crunch, Crunch It Up, Jack Knife]
 ---

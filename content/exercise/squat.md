@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:30:08.061486
+created: 2015-08-25 15:52:16.696216
 description: The individual starts in a standing position with feet shoulder width
   apart.
 groups: [Legs/Glutes]
@@ -22,3 +22,7 @@ The One-Legged Squat is performed with one leg held out straight in front of the
 The Pistol Squat variant builds on the One-Legged Squat and brings the buttocks all the way down to the heel of the foot on the ground.
 
 The Sissy Squat variant uses a pole or other support to hold with one hand, while the body leans backward through the squat until the buttocks are resting on the heels.
+
+## Resources
+
+* [Wikipedia: Bodyweight exercise](https://en.wikipedia.org/wiki/Bodyweight_exercise)

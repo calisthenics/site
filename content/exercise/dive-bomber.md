@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:30:07.264000
+created: 2015-08-25 15:52:15.942970
 description: The feet are placed on the ground just a few inches apart, with the legs
   held straight.
 groups: [Push]
@@ -13,3 +13,7 @@ The feet are placed on the ground just a few inches apart, with the legs held st
 The Half Dive Bomber variant simply stops the movement at the point the chest is between the hands and then reverses the movement to return to the starting position. The Hindu dand variant returns directly to the starting position without bending the arms or arcing the chest and shoulders back through the hands.
 
 The difficulty of the exercise can be decreased by moving the feet further apart, or by elevating the hands on a stable surface. The difficulty can be increased by placing only a single leg on the ground at a time.
+
+## Resources
+
+* [Wikipedia: Bodyweight exercise](https://en.wikipedia.org/wiki/Bodyweight_exercise)

@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:30:07.291250
+created: 2015-08-25 15:52:15.968808
 description: The individual starts by lying down on their right side with the body
   in a straight line.
 groups: [Push]
@@ -9,3 +9,7 @@ title: Side Triceps Extension
 variants: []
 ---
 The individual starts by lying down on their right side with the body in a straight line. The right hand is placed on the left shoulder, and the left hand is placed palm down on the ground, under the right shoulder, fingers pointing towards the head. The left arm pushes the upper body off the ground until the arm is straight, bending at the waist to keep the lower body on the ground. The body is then lowered to the starting position. The exercise is repeated on the left side to work the right triceps.
+
+## Resources
+
+* [Wikipedia: Bodyweight exercise](https://en.wikipedia.org/wiki/Bodyweight_exercise)

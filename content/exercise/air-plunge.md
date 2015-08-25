@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:30:07.332499
+created: 2015-08-25 15:52:16.007686
 description: The individual starts by lying down on the ground flat on the back, with
   the arms placed palm-down on the ground.
 groups: [Push]
@@ -11,3 +11,7 @@ variants: []
 The individual starts by lying down on the ground flat on the back, with the arms placed palm-down on the ground. The legs are lifted until they are straight in the air, perpendicular to the ground. The arms are used to push the hips off the ground as high as possible, keeping the legs perpendicular to the ground. The hips are then lowered slowly to the starting position. Lie flat on the back, arms to the side, palms on the ground.
 
 The difficulty of the exercise can be increased by holding the hips in the top position for a few seconds before they are lowered to the ground.
+
+## Resources
+
+* [Wikipedia: Bodyweight exercise](https://en.wikipedia.org/wiki/Bodyweight_exercise)

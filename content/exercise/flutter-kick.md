@@ -1,9 +1,9 @@
 ---
-created: 2015-08-25 13:30:07.915264
+created: 2015-08-25 15:52:16.560430
 description: ''
 groups: [Core]
 muscles: [Abdominals, Hip Flexors]
 template: exercise.html
 title: Flutter Kick
-variants: [Leg Raise, Hanging Leg Lift, Hello Darling]
+variants: [Hanging Leg Lift, Leg Raise, Hello Darling]
 ---

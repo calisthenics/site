@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:30:07.731558
+created: 2015-08-25 15:52:16.382688
 description: The individual starts in a standing position with the back against a
   wall.
 groups: [Pull]
@@ -15,3 +15,7 @@ The difficulty of the exercise may be modified by providing more or less resista
 The Ledge Curl variant uses a fixed ledge between waist and chest height to provide resistance. The hands are balled into fists and placed under the ledge. The individual then bends over slowly while pressing up against the bottom of the ledge, then returns slowly to the starting position, maintaining the same level of resistance along the way.
 
 The Isometric Curl variant uses one hand placed on the wrist of the other hand to provide resistance to the curling motion; the curling arm does not move in this case but instead benefits from the isometric tension of the exercise.
+
+## Resources
+
+* [Wikipedia: Bodyweight exercise](https://en.wikipedia.org/wiki/Bodyweight_exercise)

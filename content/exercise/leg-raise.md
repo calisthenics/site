@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:30:07.914514
+created: 2015-08-25 15:52:16.559691
 description: The individual starts in a supine position on the floor, palms on the
   floor under the lower back or buttocks.
 groups: [Core]
@@ -17,3 +17,7 @@ The Flutter Kicks variation raises both legs off the ground by several inches, t
 The Hello Darlings variant raises both legs off the ground by several inches, then opens and closes the legs with a horizontal movement.
 
 The Hanging Leg Lift variant starts with the individual hanging from a horizontal bar by their hands. The knees are brought slowly up to the chest and then returned to the starting position. The difficulty can be increased by keeping the legs straight as they are raised as high as possible.
+
+## Resources
+
+* [Wikipedia: Bodyweight exercise](https://en.wikipedia.org/wiki/Bodyweight_exercise)

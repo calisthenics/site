@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:30:07.119108
+created: 2015-08-25 15:52:15.805400
 description: ''
 groups: [Push]
 muscles: [Triceps, Trapezius, Deltoids, Glutes, Lower Back]

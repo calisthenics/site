@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:30:07.153500
+created: 2015-08-25 15:52:15.838081
 description: ''
 groups: [Push]
 muscles: [Triceps, Chest]

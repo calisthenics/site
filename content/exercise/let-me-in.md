@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:30:07.690152
+created: 2015-08-25 15:52:16.343610
 description: The individual starts by facing the outer edge of an open door that has
   a standard doorknob set.
 groups: [Pull]
@@ -15,3 +15,7 @@ The exercise can be performed with either a side grip or over-handed grip, which
 The difficulty can be modified by moving the feet; moving them forward increases the difficulty while moving the feet back decreases the difficulty. The exercise can also be performed with unilateral movements (one-handed) to increase the difficulty.
 
 The Towel Grip variation works to increase grip strength. A small towel or rope is hooked around the doorknob and the individual grasps one end of the towel in each hand to perform the exercise. In lieu of a door, the same exercise can be performed with a tree trunk, railing, or any vertical stable pole.
+
+## Resources
+
+* [Wikipedia: Bodyweight exercise](https://en.wikipedia.org/wiki/Bodyweight_exercise)

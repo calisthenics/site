@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:30:07.774640
+created: 2015-08-25 15:52:16.428287
 description: The Curl-Up, or Crunch, is another measure of a person's fitness level
   and is the third of the "big three" bodyweight exercises in the Navy Seal BUD/S
   Physical Screening Test..
@@ -22,3 +22,7 @@ The Side-V variant starts with the individual on the ground, lying on one side o
 The Jack-Knife variant starts with the individual on the ground, legs stretched out straight and the arms on the ground extended straight up over the head. The chest and legs are simultaneously brought up until the hands touch the feet. The legs and torso are then lowered until they are just a few inches off the ground, but not touching it.
 
 The Bicycle variant starts with the individual on the ground, the hands behind the head. The knee is pulled in toward the chest while the upper body curls up to touch the opposite elbow to the knee. The leg is then straightened and the exercise performed on the other side. The legs should be suspended off the ground during the exercise.
+
+## Resources
+
+* [Wikipedia: Bodyweight exercise](https://en.wikipedia.org/wiki/Bodyweight_exercise)

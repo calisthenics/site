@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:30:07.611349
+created: 2015-08-25 15:52:16.268981
 description: The individual begins in a prone position on the ground, the balls of
   the feet on the ground and the hands placed on the ground above the head, fingers
   splayed.
@@ -12,3 +12,7 @@ variants: []
 The individual begins in a prone position on the ground, the balls of the feet on the ground and the hands placed on the ground above the head, fingers splayed. The body is then raised in the air, keeping the midsection as straight as possible, until only the fingers and balls of the feet touch the ground. The body is then lowered to the starting position.
 
 Pull bodyweight exercises use a resistive or static pulling motion to work various muscle groups.
+
+## Resources
+
+* [Wikipedia: Bodyweight exercise](https://en.wikipedia.org/wiki/Bodyweight_exercise)

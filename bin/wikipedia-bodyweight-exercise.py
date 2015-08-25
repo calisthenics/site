@@ -53,6 +53,8 @@ replacements = {
     'ups': 'up'
 }
 
+resources = '## Resources\n\n* [Wikipedia: Bodyweight exercise]({})'.format(url)
+
 
 def canonical_name(name):
     name = name.strip().lower()
@@ -99,6 +101,9 @@ for group in groups:
                     muscles = list(filter(None, [canonical_name(i.text) for i in sibling.find_all('dd')]))
             elif sibling.name == 'h3':
                 break
+
+        if body:
+            body.append(resources)
 
         doc = {
             'created': datetime.now(),

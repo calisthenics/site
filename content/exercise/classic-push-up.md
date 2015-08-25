@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:30:07.392022
+created: 2015-08-25 15:52:16.062933
 description: The individual starts by lying on the ground in the prone position.
 groups: [Push-Up]
 muscles: [Pectorals, Triceps, Deltoids, Core]
@@ -12,3 +12,7 @@ The individual starts by lying on the ground in the prone position. The feet are
 The difficulty of this exercise may be decreased by elevating the hands onto a stable horizontal surface to move the center of gravity away from the arms. The arms may even be placed on a solid wall or other sturdy vertical surface to make the exercise as easy as possible.
 
 The difficulty of this exercise may be increased by elevating the feet on to a stable horizontal surface to move the center of gravity towards the arms. As well, the exercise may be performed with the hands on an unstable surface such as a medicine ball. The exercise can be further modified by performing the push up on one leg with the other leg held in the air to put more focus on the lower lumbar region. To move the focus to the pectoral muscles, the hands may be moved further apart.
+
+## Resources
+
+* [Wikipedia: Bodyweight exercise](https://en.wikipedia.org/wiki/Bodyweight_exercise)

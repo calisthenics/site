@@ -1,9 +1,9 @@
 ---
-created: 2015-08-25 13:30:08.035679
+created: 2015-08-25 15:52:16.672027
 description: ''
 groups: [Legs/Glutes]
 muscles: [Calves]
 template: exercise.html
 title: The Cliffhanger
-variants: [3 Little Pigs, Calf Raise, Donkey Calf Raise]
+variants: [Donkey Calf Raise, Calf Raise, 3 Little Pigs]
 ---

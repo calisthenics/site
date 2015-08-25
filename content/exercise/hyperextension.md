@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:30:07.798666
+created: 2015-08-25 15:52:16.451349
 description: The individual starts in a prone position on the ground with the arms
   straight out in front of the body.
 groups: [Core]
@@ -15,3 +15,7 @@ The Thumbs-Up variant starts in the same position, but the individual forms two 
 The Swimmers variation raises and lowers the opposite leg and arm and alternates sides.
 
 The Pillow Humpers variant places a towel under the hips and the feet under a stationary object like a low bed or couch. The hands are placed behind the head and the torso is raised off the ground as far as possible.
+
+## Resources
+
+* [Wikipedia: Bodyweight exercise](https://en.wikipedia.org/wiki/Bodyweight_exercise)

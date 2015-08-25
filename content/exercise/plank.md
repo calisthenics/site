@@ -1,5 +1,5 @@
 ---
-created: 2015-08-25 13:30:07.844127
+created: 2015-08-25 15:52:16.493841
 description: The individual places the toes and the forearms on the ground, with the
   elbows underneath the shoulders and the arm bent at a 90-degree angle.
 groups: [Core]
@@ -13,3 +13,7 @@ The individual places the toes and the forearms on the ground, with the elbows u
 The Static Push Up variant simply holds the starting position of a Classic Push Up for as long as possible.
 
 The S&M Push Up variant builds on the Static Push Up variant, but opposite legs and arms are lifted from the ground. The position is held as long as possible before switching sides.
+
+## Resources
+
+* [Wikipedia: Bodyweight exercise](https://en.wikipedia.org/wiki/Bodyweight_exercise)
