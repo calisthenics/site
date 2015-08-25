@@ -47,7 +47,7 @@
             <!-- <li><a href="/about/">About</a></li> -->
             <li><a href="/resources/">Resources</a></li>
           </ul>
-          {% include 'sharemenu.html' %}
+          {% block nav_buttons %}{% include 'sharemenu.html' %}{% endblock %}
         </div>
       </div>
     </div>
