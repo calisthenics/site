@@ -37,3 +37,9 @@ created: 2014-11-19 20:25:22
 
 * [List of muscles of the human body](https://en.wikipedia.org/wiki/List_of_muscles_of_the_human_body)
 * [Muscle](http://en.wikipedia.org/wiki/Muscle)
+
+### Calisthenics 101
+
+* [Calisthenics 101](https://www.calisthenics-101.co.uk)
+* [10 Calisthenics Exercises with Resistance Bands](https://www.calisthenics-101.co.uk/techniques/resistance-band-exercises-10-calisthenics-exercises-to-boost-your-workout)
+* [Best Calisthenics Workouts](https://www.calisthenics-101.co.uk/blogs/best-calisthenics-workouts)
