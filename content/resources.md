@@ -14,6 +14,8 @@ created: 2014-11-19 20:25:22
 * [Technique Thursday - Front Lever Pull Ups : bodyweightfitness](http://www.reddit.com/r/bodyweightfitness/comments/2uv87w/technique_thursday_front_lever_pull_ups/)
 * [Technique Thursday - Pistol Squat : bodyweightfitness](http://www.reddit.com/r/bodyweightfitness/comments/2siimw/technique_thursday_pistol_squat/)
 * [Top 10 Fundamental Bodyweight Exercises - GMB Fitness](https://gmb.io/fundamental-bodyweight-exercises/)
+* [The Complete Calisthenics / Street Workout Exercise List | Calisthenics Gear](https://calisthenics-gear.com/calisthenics-exercise-list/)
+
 
 ### Handstand
 
