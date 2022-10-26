@@ -1,7 +1,6 @@
 # General settings that will be available in templates.
 site:
     base_url: http://calisthenics.github.io
-    disqus_shortname: null
     author: calisthenics.github.io
     brand: calisthenics.github.io
 
